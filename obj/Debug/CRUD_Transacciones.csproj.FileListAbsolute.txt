@@ -1,0 +1,12 @@
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\bin\Debug\CRUD_Transacciones.exe.config
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\bin\Debug\CRUD_Transacciones.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\bin\Debug\CRUD_Transacciones.pdb
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.Main.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.Properties.Resources.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.pdb
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Transacciones\obj\Debug\CRUD_Transacciones.TransaccionDetails.resources
